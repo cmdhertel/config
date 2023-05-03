@@ -1,0 +1,26 @@
+2023/05/03-19:17:48.678 e89 Reusing MANIFEST /home/ghertel/.config/notion-app/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2023/05/03-19:17:48.678 e89 Recovering log #996
+2023/05/03-19:17:48.680 e89 Level-0 table #1000: started
+2023/05/03-19:17:48.684 e89 Level-0 table #1000: 13070 bytes OK
+2023/05/03-19:17:48.687 e89 Delete type=0 #996
+2023/05/03-19:19:22.082 e88 Level-0 table #1003: started
+2023/05/03-19:19:22.098 e88 Level-0 table #1003: 751565 bytes OK
+2023/05/03-19:19:22.101 e88 Delete type=0 #1001
+2023/05/03-19:27:55.593 f0a Level-0 table #1005: started
+2023/05/03-19:27:55.597 f0a Level-0 table #1005: 39367 bytes OK
+2023/05/03-19:27:55.600 f0a Delete type=0 #1002
+2023/05/03-19:28:47.605 e88 Level-0 table #1007: started
+2023/05/03-19:28:47.609 e88 Level-0 table #1007: 13033 bytes OK
+2023/05/03-19:28:47.611 e88 Delete type=0 #1004
+2023/05/03-19:28:47.612 f0a Compacting 4@0 + 1@1 files
+2023/05/03-19:28:47.640 f0a Generated table #1008@0: 1446 keys, 936121 bytes
+2023/05/03-19:28:47.640 f0a Compacted 4@0 + 1@1 files => 936121 bytes
+2023/05/03-19:28:47.642 f0a compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/05/03-19:28:47.643 f0a Delete type=2 #1000
+2023/05/03-19:28:47.643 f0a Delete type=2 #998
+2023/05/03-19:28:47.643 f0a Delete type=2 #1005
+2023/05/03-19:28:47.643 f0a Delete type=2 #1007
+2023/05/03-19:28:47.643 f0a Delete type=2 #1003
+2023/05/03-19:47:55.617 e88 Level-0 table #1010: started
+2023/05/03-19:47:55.620 e88 Level-0 table #1010: 20828 bytes OK
+2023/05/03-19:47:55.622 e88 Delete type=0 #1006

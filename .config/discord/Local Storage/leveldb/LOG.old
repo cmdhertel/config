@@ -1,0 +1,6 @@
+2023/04/12-19:42:46.848 7445 Reusing MANIFEST /home/ghertel/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/04/12-19:42:46.848 7445 Recovering log #17
+2023/04/12-19:42:46.849 7445 Reusing old log /home/ghertel/.config/discord/Local Storage/leveldb/000017.log 
+2023/04/12-19:44:47.773 7446 Level-0 table #22: started
+2023/04/12-19:44:47.788 7446 Level-0 table #22: 1535898 bytes OK
+2023/04/12-19:44:47.791 7446 Delete type=0 #17

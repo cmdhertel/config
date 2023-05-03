@@ -1,0 +1,15 @@
+2023/04/25-08:41:17.807 b76 Reusing MANIFEST /home/ghertel/.config/notion-app/Partitions/notion/IndexedDB/https_indify.co_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/25-08:41:17.807 b76 Recovering log #4
+2023/04/25-08:41:17.807 b76 Reusing old log /home/ghertel/.config/notion-app/Partitions/notion/IndexedDB/https_indify.co_0.indexeddb.leveldb/000004.log 
+2023/04/25-08:41:26.148 bdc Level-0 table #8: started
+2023/04/25-08:41:26.151 bdc Level-0 table #8: 499 bytes OK
+2023/04/25-08:41:26.154 bdc Delete type=0 #4
+2023/04/25-08:41:26.154 bdc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/25-08:41:26.154 bdc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x006\x007\x007\x001\x001\x004\x005\x006\x009' @ 63 : 1
+2023/04/25-08:41:26.154 bdc Compacting 1@1 + 1@2 files
+2023/04/25-08:41:26.156 bdc Generated table #9@1: 17 keys, 520 bytes
+2023/04/25-08:41:26.156 bdc Compacted 1@1 + 1@2 files => 520 bytes
+2023/04/25-08:41:26.158 bdc compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/25-08:41:26.159 bdc Delete type=2 #8
+2023/04/25-08:41:26.159 bdc Delete type=2 #5
+2023/04/25-08:41:26.159 bdc Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x006\x007\x007\x001\x001\x004\x005\x006\x009' @ 63 : 1 .. (end); will stop at (end)

@@ -1,0 +1,23 @@
+00:00:00.395073 VirtualBox GUI VM Selector Window 7.0.8 r156879 linux.amd64 (Apr 18 2023 21:36:31) release log
+00:00:00.395075 Log opened 2023-04-24T09:26:20.546887000Z
+00:00:00.395076 Build Type: release
+00:00:00.395078 OS Product: Linux
+00:00:00.395078 OS Release: 6.2.12-arch1-1
+00:00:00.395079 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 20 Apr 2023 16:11:55 +0000
+00:00:00.395104 DMI Product Name: HP Spectre x360 Convertible 13-aw0xxx
+00:00:00.395110 DMI Product Version: 
+00:00:00.395115 Firmware type: UEFI
+00:00:00.395324 Secure Boot: Disabled
+00:00:00.395346 Host RAM: 15674MB (15.3GB) total, 13227MB (12.9GB) available
+00:00:00.395349 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.395349 Process ID: 25054
+00:00:00.395349 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.395378 Qt version: 5.15.9
+00:00:00.397533 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.405139 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.903984 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x32 x 1920x1048
+00:00:00.937462 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:31.034470 GUI: UICommon: Commit data request...
+00:06:33.258602 GUI: UICommon: Commit data request...
+00:06:33.261650 GUI: UICommon: Handling aboutToQuit request..
+00:06:33.724081 GUI: UICommon: aboutToQuit request handled!

@@ -1,0 +1,763 @@
+2023-04-01T13:25:46.248Z [Modules] Modules initializing
+2023-04-01T13:25:46.249Z [Modules] Distribution: remote
+2023-04-01T13:25:46.249Z [Modules] Host updates: enabled
+2023-04-01T13:25:46.249Z [Modules] Module updates: enabled
+2023-04-01T13:25:46.249Z [Modules] Module install path: /home/ghertel/.config/discord/0.0.26/modules
+2023-04-01T13:25:46.249Z [Modules] Module installed file path: /home/ghertel/.config/discord/0.0.26/modules/installed.json
+2023-04-01T13:25:46.249Z [Modules] Module download path: /home/ghertel/.config/discord/0.0.26/modules/pending
+2023-04-01T13:25:46.406Z [Modules] Bootstrapping...
+2023-04-01T13:25:46.407Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-04-01T13:25:46.408Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-04-01T13:25:46.409Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-04-01T13:25:46.409Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-04-01T13:25:46.409Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-04-01T13:25:46.411Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-04-01T13:25:46.411Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-04-01T13:25:46.412Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-04-01T13:25:46.413Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-04-01T13:25:46.413Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-04-01T13:25:46.413Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-04-01T13:25:46.413Z [Modules] Checking for host updates.
+2023-04-01T13:25:46.592Z [Modules] Host is up to date.
+2023-04-01T13:25:46.592Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-01T13:25:46.627Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-04-01T13:25:46.627Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-04-01T13:25:46.627Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-04-01T13:25:46.627Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-04-01T13:25:46.627Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-04-01T13:25:46.628Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-04-01T13:25:46.628Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip
+2023-04-01T13:25:46.865Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 2%
+2023-04-01T13:25:46.876Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 5%
+2023-04-01T13:25:46.883Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 6%
+2023-04-01T13:25:46.887Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 9%
+2023-04-01T13:25:46.887Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 10%
+2023-04-01T13:25:46.891Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 13%
+2023-04-01T13:25:46.895Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 17%
+2023-04-01T13:25:46.898Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 20%
+2023-04-01T13:25:46.901Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 24%
+2023-04-01T13:25:46.903Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 27%
+2023-04-01T13:25:46.906Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 31%
+2023-04-01T13:25:46.906Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 32%
+2023-04-01T13:25:46.907Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 35%
+2023-04-01T13:25:46.908Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 36%
+2023-04-01T13:25:46.909Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 40%
+2023-04-01T13:25:46.910Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 43%
+2023-04-01T13:25:46.911Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 47%
+2023-04-01T13:25:46.912Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 50%
+2023-04-01T13:25:46.913Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 54%
+2023-04-01T13:25:46.914Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 57%
+2023-04-01T13:25:46.916Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 61%
+2023-04-01T13:25:46.917Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 64%
+2023-04-01T13:25:46.917Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 68%
+2023-04-01T13:25:46.918Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 71%
+2023-04-01T13:25:46.919Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 75%
+2023-04-01T13:25:46.920Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 78%
+2023-04-01T13:25:46.921Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 82%
+2023-04-01T13:25:46.921Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 85%
+2023-04-01T13:25:46.923Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 89%
+2023-04-01T13:25:46.923Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 93%
+2023-04-01T13:25:46.924Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 96%
+2023-04-01T13:25:46.924Z [Modules] Streaming discord_desktop_core@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 100%
+2023-04-01T13:25:46.926Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-04-01T13:25:46.926Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip
+2023-04-01T13:25:47.086Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 3%
+2023-04-01T13:25:47.087Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 4%
+2023-04-01T13:25:47.087Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 8%
+2023-04-01T13:25:47.088Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 16%
+2023-04-01T13:25:47.088Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 20%
+2023-04-01T13:25:47.098Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 24%
+2023-04-01T13:25:47.099Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 37%
+2023-04-01T13:25:47.100Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 41%
+2023-04-01T13:25:47.100Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 46%
+2023-04-01T13:25:47.101Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 54%
+2023-04-01T13:25:47.102Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 62%
+2023-04-01T13:25:47.103Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 69%
+2023-04-01T13:25:47.103Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 77%
+2023-04-01T13:25:47.104Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 89%
+2023-04-01T13:25:47.104Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 93%
+2023-04-01T13:25:47.107Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 97%
+2023-04-01T13:25:47.107Z [Modules] Streaming discord_erlpack@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 100%
+2023-04-01T13:25:47.108Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-04-01T13:25:47.108Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip
+2023-04-01T13:25:47.286Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 1%
+2023-04-01T13:25:47.287Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 2%
+2023-04-01T13:25:47.288Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 3%
+2023-04-01T13:25:47.300Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 4%
+2023-04-01T13:25:47.335Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 5%
+2023-04-01T13:25:47.336Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 6%
+2023-04-01T13:25:47.337Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 8%
+2023-04-01T13:25:47.338Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 9%
+2023-04-01T13:25:47.339Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 10%
+2023-04-01T13:25:47.339Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 11%
+2023-04-01T13:25:47.341Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 12%
+2023-04-01T13:25:47.341Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 13%
+2023-04-01T13:25:47.342Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 14%
+2023-04-01T13:25:47.342Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 15%
+2023-04-01T13:25:47.343Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 17%
+2023-04-01T13:25:47.344Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 18%
+2023-04-01T13:25:47.345Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 19%
+2023-04-01T13:25:47.347Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 20%
+2023-04-01T13:25:47.348Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 22%
+2023-04-01T13:25:47.348Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 23%
+2023-04-01T13:25:47.349Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 24%
+2023-04-01T13:25:47.349Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 25%
+2023-04-01T13:25:47.350Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 27%
+2023-04-01T13:25:47.350Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 28%
+2023-04-01T13:25:47.351Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 29%
+2023-04-01T13:25:47.351Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 31%
+2023-04-01T13:25:47.351Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 33%
+2023-04-01T13:25:47.352Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 34%
+2023-04-01T13:25:47.352Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 36%
+2023-04-01T13:25:47.352Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 37%
+2023-04-01T13:25:47.359Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 38%
+2023-04-01T13:25:47.359Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 39%
+2023-04-01T13:25:47.360Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 40%
+2023-04-01T13:25:47.360Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 41%
+2023-04-01T13:25:47.360Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 42%
+2023-04-01T13:25:47.361Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 43%
+2023-04-01T13:25:47.361Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 44%
+2023-04-01T13:25:47.362Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 45%
+2023-04-01T13:25:47.363Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 46%
+2023-04-01T13:25:47.363Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 47%
+2023-04-01T13:25:47.365Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 48%
+2023-04-01T13:25:47.365Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 49%
+2023-04-01T13:25:47.366Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 50%
+2023-04-01T13:25:47.366Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 51%
+2023-04-01T13:25:47.367Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 52%
+2023-04-01T13:25:47.367Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 53%
+2023-04-01T13:25:47.368Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 54%
+2023-04-01T13:25:47.375Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 55%
+2023-04-01T13:25:47.375Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 56%
+2023-04-01T13:25:47.376Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 57%
+2023-04-01T13:25:47.389Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 58%
+2023-04-01T13:25:47.390Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 59%
+2023-04-01T13:25:47.391Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 61%
+2023-04-01T13:25:47.391Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 62%
+2023-04-01T13:25:47.398Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 63%
+2023-04-01T13:25:47.399Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 64%
+2023-04-01T13:25:47.402Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 65%
+2023-04-01T13:25:47.403Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 66%
+2023-04-01T13:25:47.404Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 67%
+2023-04-01T13:25:47.405Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 68%
+2023-04-01T13:25:47.419Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 69%
+2023-04-01T13:25:47.420Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 71%
+2023-04-01T13:25:47.420Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 72%
+2023-04-01T13:25:47.420Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 74%
+2023-04-01T13:25:47.426Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 75%
+2023-04-01T13:25:47.426Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 76%
+2023-04-01T13:25:47.427Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 77%
+2023-04-01T13:25:47.430Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 78%
+2023-04-01T13:25:47.431Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 79%
+2023-04-01T13:25:47.432Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 80%
+2023-04-01T13:25:47.433Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 81%
+2023-04-01T13:25:47.444Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 82%
+2023-04-01T13:25:47.445Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 83%
+2023-04-01T13:25:47.447Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 84%
+2023-04-01T13:25:47.447Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 86%
+2023-04-01T13:25:47.448Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 87%
+2023-04-01T13:25:47.449Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 88%
+2023-04-01T13:25:47.450Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 89%
+2023-04-01T13:25:47.454Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 90%
+2023-04-01T13:25:47.456Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 91%
+2023-04-01T13:25:47.463Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 92%
+2023-04-01T13:25:47.464Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 93%
+2023-04-01T13:25:47.464Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 94%
+2023-04-01T13:25:47.465Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 95%
+2023-04-01T13:25:47.467Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 96%
+2023-04-01T13:25:47.469Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 97%
+2023-04-01T13:25:47.469Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 98%
+2023-04-01T13:25:47.470Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 99%
+2023-04-01T13:25:47.476Z [Modules] Streaming discord_spellcheck@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 100%
+2023-04-01T13:25:47.477Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-04-01T13:25:47.477Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip
+2023-04-01T13:25:47.632Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 2%
+2023-04-01T13:25:47.633Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 4%
+2023-04-01T13:25:47.634Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 9%
+2023-04-01T13:25:47.636Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 17%
+2023-04-01T13:25:47.637Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 26%
+2023-04-01T13:25:47.639Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 35%
+2023-04-01T13:25:47.640Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 41%
+2023-04-01T13:25:47.641Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 45%
+2023-04-01T13:25:47.642Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 49%
+2023-04-01T13:25:47.643Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 51%
+2023-04-01T13:25:47.643Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 55%
+2023-04-01T13:25:47.646Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 57%
+2023-04-01T13:25:47.648Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 60%
+2023-04-01T13:25:47.649Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 64%
+2023-04-01T13:25:47.649Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 68%
+2023-04-01T13:25:47.650Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 69%
+2023-04-01T13:25:47.651Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 74%
+2023-04-01T13:25:47.651Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 76%
+2023-04-01T13:25:47.651Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 78%
+2023-04-01T13:25:47.659Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 81%
+2023-04-01T13:25:47.659Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 83%
+2023-04-01T13:25:47.660Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 86%
+2023-04-01T13:25:47.661Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 88%
+2023-04-01T13:25:47.661Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 90%
+2023-04-01T13:25:47.662Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 94%
+2023-04-01T13:25:47.663Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 95%
+2023-04-01T13:25:47.664Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 97%
+2023-04-01T13:25:47.666Z [Modules] Streaming discord_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 100%
+2023-04-01T13:25:47.668Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-04-01T13:25:47.668Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip
+2023-04-01T13:25:47.834Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 1%
+2023-04-01T13:25:47.838Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 4%
+2023-04-01T13:25:47.840Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 6%
+2023-04-01T13:25:47.841Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 7%
+2023-04-01T13:25:47.842Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 8%
+2023-04-01T13:25:47.844Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 9%
+2023-04-01T13:25:47.846Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 10%
+2023-04-01T13:25:47.849Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 11%
+2023-04-01T13:25:47.851Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 12%
+2023-04-01T13:25:47.852Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 13%
+2023-04-01T13:25:47.854Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 14%
+2023-04-01T13:25:47.856Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 15%
+2023-04-01T13:25:47.857Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 16%
+2023-04-01T13:25:47.859Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 17%
+2023-04-01T13:25:47.861Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 18%
+2023-04-01T13:25:47.864Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 19%
+2023-04-01T13:25:47.865Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 20%
+2023-04-01T13:25:47.878Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 21%
+2023-04-01T13:25:47.880Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 22%
+2023-04-01T13:25:47.881Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 23%
+2023-04-01T13:25:47.882Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 24%
+2023-04-01T13:25:47.884Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 25%
+2023-04-01T13:25:47.885Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 26%
+2023-04-01T13:25:47.886Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 27%
+2023-04-01T13:25:47.887Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 28%
+2023-04-01T13:25:47.889Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 29%
+2023-04-01T13:25:47.890Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 30%
+2023-04-01T13:25:47.890Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 31%
+2023-04-01T13:25:47.891Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 32%
+2023-04-01T13:25:47.891Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 33%
+2023-04-01T13:25:47.891Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 34%
+2023-04-01T13:25:47.892Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 35%
+2023-04-01T13:25:47.892Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 36%
+2023-04-01T13:25:47.895Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 37%
+2023-04-01T13:25:47.896Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 38%
+2023-04-01T13:25:47.898Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 39%
+2023-04-01T13:25:47.899Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 40%
+2023-04-01T13:25:47.901Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 41%
+2023-04-01T13:25:47.902Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 42%
+2023-04-01T13:25:47.904Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 43%
+2023-04-01T13:25:47.906Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 44%
+2023-04-01T13:25:47.908Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 45%
+2023-04-01T13:25:47.910Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 46%
+2023-04-01T13:25:47.911Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 47%
+2023-04-01T13:25:47.913Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 48%
+2023-04-01T13:25:47.914Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 49%
+2023-04-01T13:25:47.916Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 50%
+2023-04-01T13:25:47.919Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 51%
+2023-04-01T13:25:47.984Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 52%
+2023-04-01T13:25:47.986Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 53%
+2023-04-01T13:25:48.396Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 54%
+2023-04-01T13:25:48.658Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 55%
+2023-04-01T13:25:48.917Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 56%
+2023-04-01T13:25:48.918Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 57%
+2023-04-01T13:25:49.182Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 58%
+2023-04-01T13:25:49.443Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 59%
+2023-04-01T13:25:49.705Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 60%
+2023-04-01T13:25:49.706Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 61%
+2023-04-01T13:25:49.967Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 62%
+2023-04-01T13:25:50.229Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 63%
+2023-04-01T13:25:50.491Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 64%
+2023-04-01T13:25:50.492Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 65%
+2023-04-01T13:25:50.755Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 66%
+2023-04-01T13:25:51.016Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 67%
+2023-04-01T13:25:51.246Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 68%
+2023-04-01T13:25:51.475Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 69%
+2023-04-01T13:25:51.476Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 70%
+2023-04-01T13:25:51.703Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 71%
+2023-04-01T13:25:52.031Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 72%
+2023-04-01T13:25:52.259Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 73%
+2023-04-01T13:25:52.260Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 74%
+2023-04-01T13:25:52.522Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 75%
+2023-04-01T13:25:52.849Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 76%
+2023-04-01T13:25:52.851Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 77%
+2023-04-01T13:25:53.113Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 78%
+2023-04-01T13:25:53.373Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 79%
+2023-04-01T13:25:53.633Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 80%
+2023-04-01T13:25:53.635Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 81%
+2023-04-01T13:25:53.897Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 82%
+2023-04-01T13:25:54.159Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 83%
+2023-04-01T13:25:54.419Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 84%
+2023-04-01T13:25:54.421Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 85%
+2023-04-01T13:25:54.683Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 86%
+2023-04-01T13:25:54.945Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 87%
+2023-04-01T13:25:55.206Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 88%
+2023-04-01T13:25:55.207Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 89%
+2023-04-01T13:25:55.471Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 90%
+2023-04-01T13:25:55.732Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 91%
+2023-04-01T13:25:55.994Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 92%
+2023-04-01T13:25:55.995Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 93%
+2023-04-01T13:25:56.257Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 94%
+2023-04-01T13:25:56.517Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 95%
+2023-04-01T13:25:56.747Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 96%
+2023-04-01T13:25:56.749Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 97%
+2023-04-01T13:25:57.044Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 98%
+2023-04-01T13:25:57.304Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 99%
+2023-04-01T13:25:57.567Z [Modules] Streaming discord_voice@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 100%
+2023-04-01T13:25:57.569Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-04-01T13:25:57.569Z [Modules] Installing updates...
+2023-04-01T13:25:57.570Z [Modules] Installing discord_desktop_core@1 from /home/ghertel/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip
+2023-04-01T13:25:57.636Z [Modules] Installing discord_erlpack@1 from /home/ghertel/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip
+2023-04-01T13:25:57.678Z [Modules] Installing discord_spellcheck@1 from /home/ghertel/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip
+2023-04-01T13:25:58.103Z [Modules] Installing discord_utils@1 from /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-1.zip
+2023-04-01T13:25:58.333Z [Modules] Installing discord_voice@1 from /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-1.zip
+2023-04-01T13:25:58.793Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-04-01T13:25:58.793Z [Modules] Checking for host updates.
+2023-04-01T13:25:58.943Z [Modules] Host is up to date.
+2023-04-01T13:25:58.943Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-01T13:25:58.948Z [Modules] No module updates available.
+2023-04-01T13:26:00.006Z [Modules] Starting to install discord_krisp...
+2023-04-01T13:26:00.006Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-04-01T13:26:00.007Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip
+2023-04-01T13:26:00.120Z [Modules] Starting to install discord_game_utils...
+2023-04-01T13:26:00.170Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 1%
+2023-04-01T13:26:00.171Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 2%
+2023-04-01T13:26:00.173Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 3%
+2023-04-01T13:26:00.175Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 4%
+2023-04-01T13:26:00.176Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 5%
+2023-04-01T13:26:00.179Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 6%
+2023-04-01T13:26:00.181Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 7%
+2023-04-01T13:26:00.182Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 8%
+2023-04-01T13:26:00.197Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 9%
+2023-04-01T13:26:00.197Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 10%
+2023-04-01T13:26:00.199Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 11%
+2023-04-01T13:26:00.200Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 12%
+2023-04-01T13:26:00.202Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 13%
+2023-04-01T13:26:00.205Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 14%
+2023-04-01T13:26:00.206Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 15%
+2023-04-01T13:26:00.207Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 16%
+2023-04-01T13:26:00.207Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 17%
+2023-04-01T13:26:00.208Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 18%
+2023-04-01T13:26:00.209Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 19%
+2023-04-01T13:26:00.209Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 20%
+2023-04-01T13:26:00.211Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 21%
+2023-04-01T13:26:00.213Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 22%
+2023-04-01T13:26:00.215Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 23%
+2023-04-01T13:26:00.217Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 24%
+2023-04-01T13:26:00.219Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 25%
+2023-04-01T13:26:00.220Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 26%
+2023-04-01T13:26:00.222Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 27%
+2023-04-01T13:26:00.225Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 28%
+2023-04-01T13:26:00.227Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 29%
+2023-04-01T13:26:00.228Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 30%
+2023-04-01T13:26:00.230Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 31%
+2023-04-01T13:26:00.232Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 32%
+2023-04-01T13:26:00.234Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 33%
+2023-04-01T13:26:00.236Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 34%
+2023-04-01T13:26:00.238Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 35%
+2023-04-01T13:26:00.240Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 36%
+2023-04-01T13:26:00.245Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 37%
+2023-04-01T13:26:00.246Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 38%
+2023-04-01T13:26:00.249Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 39%
+2023-04-01T13:26:00.250Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 40%
+2023-04-01T13:26:00.253Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 41%
+2023-04-01T13:26:00.254Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 42%
+2023-04-01T13:26:00.256Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 43%
+2023-04-01T13:26:00.258Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 44%
+2023-04-01T13:26:00.378Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 45%
+2023-04-01T13:26:00.404Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 46%
+2023-04-01T13:26:00.730Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 47%
+2023-04-01T13:26:00.931Z [Modules] Checking for host updates.
+2023-04-01T13:26:00.995Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 48%
+2023-04-01T13:26:01.075Z [Modules] Host is up to date.
+2023-04-01T13:26:01.075Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-01T13:26:01.077Z [Modules] No module updates available.
+2023-04-01T13:26:01.105Z [Modules] Starting to install discord_rpc...
+2023-04-01T13:26:01.389Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 49%
+2023-04-01T13:26:01.492Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 50%
+2023-04-01T13:26:01.723Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 51%
+2023-04-01T13:26:01.950Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 52%
+2023-04-01T13:26:02.180Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 53%
+2023-04-01T13:26:02.409Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 54%
+2023-04-01T13:26:02.411Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 55%
+2023-04-01T13:26:02.803Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 56%
+2023-04-01T13:26:03.082Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 57%
+2023-04-01T13:26:03.083Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 58%
+2023-04-01T13:26:03.345Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 59%
+2023-04-01T13:26:03.606Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 60%
+2023-04-01T13:26:03.867Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 61%
+2023-04-01T13:26:04.129Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 62%
+2023-04-01T13:26:04.391Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 63%
+2023-04-01T13:26:04.654Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 64%
+2023-04-01T13:26:04.655Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 65%
+2023-04-01T13:26:04.917Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 66%
+2023-04-01T13:26:05.180Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 67%
+2023-04-01T13:26:05.441Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 68%
+2023-04-01T13:26:05.703Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 69%
+2023-04-01T13:26:05.964Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 70%
+2023-04-01T13:26:06.226Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 71%
+2023-04-01T13:26:06.228Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 72%
+2023-04-01T13:26:06.490Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 73%
+2023-04-01T13:26:06.751Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 74%
+2023-04-01T13:26:07.016Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 75%
+2023-04-01T13:26:07.245Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 76%
+2023-04-01T13:26:07.540Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 77%
+2023-04-01T13:26:07.802Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 78%
+2023-04-01T13:26:07.804Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 79%
+2023-04-01T13:26:08.064Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 80%
+2023-04-01T13:26:08.277Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 81%
+2023-04-01T13:26:08.587Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 82%
+2023-04-01T13:26:08.848Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 83%
+2023-04-01T13:26:09.111Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 84%
+2023-04-01T13:26:09.373Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 85%
+2023-04-01T13:26:09.374Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 86%
+2023-04-01T13:26:09.639Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 87%
+2023-04-01T13:26:09.902Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 88%
+2023-04-01T13:26:10.162Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 89%
+2023-04-01T13:26:10.422Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 90%
+2023-04-01T13:26:10.684Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 91%
+2023-04-01T13:26:10.946Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 92%
+2023-04-01T13:26:10.947Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 93%
+2023-04-01T13:26:11.209Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 94%
+2023-04-01T13:26:11.470Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 95%
+2023-04-01T13:26:11.732Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 96%
+2023-04-01T13:26:11.996Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 97%
+2023-04-01T13:26:12.243Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 98%
+2023-04-01T13:26:12.520Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 99%
+2023-04-01T13:26:12.521Z [Modules] Streaming discord_krisp@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 100%
+2023-04-01T13:26:12.522Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-04-01T13:26:12.523Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip
+2023-04-01T13:26:12.523Z [Modules] Installing discord_krisp@1 from /home/ghertel/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip
+2023-04-01T13:26:12.677Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 2%
+2023-04-01T13:26:12.677Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 8%
+2023-04-01T13:26:12.678Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 11%
+2023-04-01T13:26:12.678Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 14%
+2023-04-01T13:26:12.679Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 17%
+2023-04-01T13:26:12.679Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 19%
+2023-04-01T13:26:12.680Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 20%
+2023-04-01T13:26:12.680Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 23%
+2023-04-01T13:26:12.680Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 25%
+2023-04-01T13:26:12.681Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 28%
+2023-04-01T13:26:12.681Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 29%
+2023-04-01T13:26:12.682Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 31%
+2023-04-01T13:26:12.682Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 34%
+2023-04-01T13:26:12.683Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 37%
+2023-04-01T13:26:12.684Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 40%
+2023-04-01T13:26:12.684Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 43%
+2023-04-01T13:26:12.685Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 46%
+2023-04-01T13:26:12.686Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 49%
+2023-04-01T13:26:12.686Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 50%
+2023-04-01T13:26:12.686Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 53%
+2023-04-01T13:26:12.687Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 56%
+2023-04-01T13:26:12.687Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 59%
+2023-04-01T13:26:12.688Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 61%
+2023-04-01T13:26:12.688Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 62%
+2023-04-01T13:26:12.689Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 65%
+2023-04-01T13:26:12.690Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 67%
+2023-04-01T13:26:12.690Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 68%
+2023-04-01T13:26:12.690Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 70%
+2023-04-01T13:26:12.691Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 73%
+2023-04-01T13:26:12.691Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 76%
+2023-04-01T13:26:12.692Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 79%
+2023-04-01T13:26:12.692Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 82%
+2023-04-01T13:26:12.694Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 83%
+2023-04-01T13:26:12.705Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 85%
+2023-04-01T13:26:12.705Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 89%
+2023-04-01T13:26:12.706Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 94%
+2023-04-01T13:26:12.706Z [Modules] Streaming discord_game_utils@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 100%
+2023-04-01T13:26:12.707Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-04-01T13:26:12.707Z [Modules] Streaming discord_rpc@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_rpc-1.zip
+2023-04-01T13:26:12.841Z [Modules] Installing discord_game_utils@1 from /home/ghertel/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip
+2023-04-01T13:26:12.860Z [Modules] Streaming discord_rpc@1 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_rpc-1.zip: 100%
+2023-04-01T13:26:12.860Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-04-01T13:26:12.899Z [Modules] Installing discord_rpc@1 from /home/ghertel/.config/discord/0.0.26/modules/pending/discord_rpc-1.zip
+2023-04-01T13:26:12.908Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2023-04-01T14:26:00.936Z [Modules] Checking for host updates.
+2023-04-01T14:26:01.085Z [Modules] Host is up to date.
+2023-04-01T14:26:01.085Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-01T14:26:01.106Z [Modules] No module updates available.
+2023-04-01T15:26:00.934Z [Modules] Checking for host updates.
+2023-04-01T15:26:01.082Z [Modules] Host is up to date.
+2023-04-01T15:26:01.083Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-01T15:26:01.107Z [Modules] No module updates available.
+2023-04-01T16:26:00.936Z [Modules] Checking for host updates.
+2023-04-01T16:26:01.103Z [Modules] Host is up to date.
+2023-04-01T16:26:01.103Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-01T16:26:01.126Z [Modules] No module updates available.
+2023-04-01T17:26:00.935Z [Modules] Checking for host updates.
+2023-04-01T17:26:01.095Z [Modules] Host is up to date.
+2023-04-01T17:26:01.095Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-01T17:26:01.124Z [Modules] No module updates available.
+2023-04-01T18:26:00.935Z [Modules] Checking for host updates.
+2023-04-01T18:26:01.078Z [Modules] Host is up to date.
+2023-04-01T18:26:01.078Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-01T18:26:01.105Z [Modules] No module updates available.
+2023-04-01T19:26:00.935Z [Modules] Checking for host updates.
+2023-04-01T19:26:01.083Z [Modules] Host is up to date.
+2023-04-01T19:26:01.084Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-01T19:26:01.106Z [Modules] No module updates available.
+2023-04-01T20:26:00.935Z [Modules] Checking for host updates.
+2023-04-01T20:26:01.088Z [Modules] Host is up to date.
+2023-04-01T20:26:01.088Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-01T20:26:01.113Z [Modules] No module updates available.
+2023-04-01T21:26:00.936Z [Modules] Checking for host updates.
+2023-04-01T21:26:01.102Z [Modules] Host is up to date.
+2023-04-01T21:26:01.102Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-01T21:26:01.130Z [Modules] No module updates available.
+2023-04-01T22:26:00.933Z [Modules] Checking for host updates.
+2023-04-01T22:26:01.072Z [Modules] Host is up to date.
+2023-04-01T22:26:01.072Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-01T22:26:01.091Z [Modules] No module updates available.
+2023-04-01T23:26:00.936Z [Modules] Checking for host updates.
+2023-04-01T23:26:01.106Z [Modules] Host is up to date.
+2023-04-01T23:26:01.106Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-01T23:26:01.132Z [Modules] No module updates available.
+2023-04-02T10:23:18.601Z [Modules] Modules initializing
+2023-04-02T10:23:18.606Z [Modules] Distribution: remote
+2023-04-02T10:23:18.606Z [Modules] Host updates: enabled
+2023-04-02T10:23:18.606Z [Modules] Module updates: enabled
+2023-04-02T10:23:18.607Z [Modules] Module install path: /home/ghertel/.config/discord/0.0.26/modules
+2023-04-02T10:23:18.607Z [Modules] Module installed file path: /home/ghertel/.config/discord/0.0.26/modules/installed.json
+2023-04-02T10:23:18.607Z [Modules] Module download path: /home/ghertel/.config/discord/0.0.26/modules/pending
+2023-04-02T10:23:19.051Z [Modules] No updates to install
+2023-04-02T10:23:19.051Z [Modules] Checking for host updates.
+2023-04-02T10:23:19.410Z [Modules] Host is up to date.
+2023-04-02T10:23:19.411Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-02T10:23:19.447Z [Modules] No module updates available.
+2023-04-02T10:23:22.308Z [Modules] Checking for host updates.
+2023-04-02T10:23:22.468Z [Modules] Host is up to date.
+2023-04-02T10:23:22.468Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-02T10:23:22.470Z [Modules] No module updates available.
+2023-04-02T12:40:52.792Z [Modules] Checking for host updates.
+2023-04-02T12:40:52.978Z [Modules] Host is up to date.
+2023-04-02T12:40:52.978Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-02T12:40:53.011Z [Modules] No module updates available.
+2023-04-02T15:29:15.831Z [Modules] Modules initializing
+2023-04-02T15:29:15.836Z [Modules] Distribution: remote
+2023-04-02T15:29:15.836Z [Modules] Host updates: enabled
+2023-04-02T15:29:15.836Z [Modules] Module updates: enabled
+2023-04-02T15:29:15.836Z [Modules] Module install path: /home/ghertel/.config/discord/0.0.26/modules
+2023-04-02T15:29:15.837Z [Modules] Module installed file path: /home/ghertel/.config/discord/0.0.26/modules/installed.json
+2023-04-02T15:29:15.837Z [Modules] Module download path: /home/ghertel/.config/discord/0.0.26/modules/pending
+2023-04-02T15:29:16.257Z [Modules] No updates to install
+2023-04-02T15:29:16.257Z [Modules] Checking for host updates.
+2023-04-02T15:30:06.304Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-04-02T15:30:26.312Z [Modules] Checking for host updates.
+2023-04-02T15:31:16.353Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-04-02T15:31:56.383Z [Modules] Checking for host updates.
+2023-04-02T15:32:02.849Z [Modules] Host is up to date.
+2023-04-02T15:32:02.850Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-02T15:32:02.919Z [Modules] No module updates available.
+2023-04-02T15:32:11.182Z [Modules] Checking for host updates.
+2023-04-02T15:32:11.434Z [Modules] Host is up to date.
+2023-04-02T15:32:11.434Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-02T15:32:11.437Z [Modules] No module updates available.
+2023-04-02T16:59:17.553Z [Modules] Checking for host updates.
+2023-04-02T16:59:32.840Z [Modules] Host is up to date.
+2023-04-02T16:59:32.840Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-02T16:59:33.035Z [Modules] No module updates available.
+2023-04-02T18:04:13.384Z [Modules] Modules initializing
+2023-04-02T18:04:13.389Z [Modules] Distribution: remote
+2023-04-02T18:04:13.389Z [Modules] Host updates: enabled
+2023-04-02T18:04:13.389Z [Modules] Module updates: enabled
+2023-04-02T18:04:13.390Z [Modules] Module install path: /home/ghertel/.config/discord/0.0.26/modules
+2023-04-02T18:04:13.390Z [Modules] Module installed file path: /home/ghertel/.config/discord/0.0.26/modules/installed.json
+2023-04-02T18:04:13.390Z [Modules] Module download path: /home/ghertel/.config/discord/0.0.26/modules/pending
+2023-04-02T18:04:13.852Z [Modules] No updates to install
+2023-04-02T18:04:13.852Z [Modules] Checking for host updates.
+2023-04-02T18:04:19.243Z [Modules] Host is up to date.
+2023-04-02T18:04:19.243Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-02T18:04:19.299Z [Modules] No module updates available.
+2023-04-02T18:04:33.796Z [Modules] Checking for host updates.
+2023-04-02T18:04:34.048Z [Modules] Host is up to date.
+2023-04-02T18:04:34.049Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-02T18:04:34.052Z [Modules] No module updates available.
+2023-04-02T19:04:33.801Z [Modules] Checking for host updates.
+2023-04-02T19:04:49.074Z [Modules] Host is up to date.
+2023-04-02T19:04:49.074Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-02T19:04:49.130Z [Modules] No module updates available.
+2023-04-12T17:42:46.796Z [Modules] Modules initializing
+2023-04-12T17:42:46.801Z [Modules] Distribution: remote
+2023-04-12T17:42:46.801Z [Modules] Host updates: enabled
+2023-04-12T17:42:46.801Z [Modules] Module updates: enabled
+2023-04-12T17:42:46.802Z [Modules] Module install path: /home/ghertel/.config/discord/0.0.26/modules
+2023-04-12T17:42:46.802Z [Modules] Module installed file path: /home/ghertel/.config/discord/0.0.26/modules/installed.json
+2023-04-12T17:42:46.802Z [Modules] Module download path: /home/ghertel/.config/discord/0.0.26/modules/pending
+2023-04-12T17:42:47.239Z [Modules] No updates to install
+2023-04-12T17:42:47.240Z [Modules] Checking for host updates.
+2023-04-12T17:42:47.526Z [Modules] Host is up to date.
+2023-04-12T17:42:47.527Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-12T17:42:47.566Z [Modules] No module updates available.
+2023-04-12T17:42:50.587Z [Modules] Checking for host updates.
+2023-04-12T17:42:50.734Z [Modules] Host is up to date.
+2023-04-12T17:42:50.734Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-12T17:42:50.736Z [Modules] No module updates available.
+2023-04-12T18:42:50.592Z [Modules] Checking for host updates.
+2023-04-12T18:42:50.794Z [Modules] Host is up to date.
+2023-04-12T18:42:50.794Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-12T18:42:50.839Z [Modules] No module updates available.
+2023-04-26T11:20:52.839Z [Modules] Modules initializing
+2023-04-26T11:20:52.844Z [Modules] Distribution: remote
+2023-04-26T11:20:52.844Z [Modules] Host updates: enabled
+2023-04-26T11:20:52.844Z [Modules] Module updates: enabled
+2023-04-26T11:20:52.845Z [Modules] Module install path: /home/ghertel/.config/discord/0.0.26/modules
+2023-04-26T11:20:52.845Z [Modules] Module installed file path: /home/ghertel/.config/discord/0.0.26/modules/installed.json
+2023-04-26T11:20:52.845Z [Modules] Module download path: /home/ghertel/.config/discord/0.0.26/modules/pending
+2023-04-26T11:20:53.287Z [Modules] No updates to install
+2023-04-26T11:20:53.288Z [Modules] Checking for host updates.
+2023-04-26T11:20:53.522Z [Modules] Host is up to date.
+2023-04-26T11:20:53.522Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-26T11:20:53.558Z [Modules] Module update available: discord_utils@2 [installed: 1]
+2023-04-26T11:20:53.559Z [Modules] Module update available: discord_voice@2 [installed: 1]
+2023-04-26T11:20:53.559Z [Modules] Fetching discord_utils@2 from https://discord.com/api/modules/stable/discord_utils/2
+2023-04-26T11:20:53.560Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip
+2023-04-26T11:20:53.796Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 1%
+2023-04-26T11:20:53.805Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 2%
+2023-04-26T11:20:53.807Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 3%
+2023-04-26T11:20:53.811Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 4%
+2023-04-26T11:20:53.816Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 6%
+2023-04-26T11:20:53.818Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 7%
+2023-04-26T11:20:53.820Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 9%
+2023-04-26T11:20:53.823Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 11%
+2023-04-26T11:20:53.827Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 13%
+2023-04-26T11:20:53.828Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 15%
+2023-04-26T11:20:53.829Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 16%
+2023-04-26T11:20:53.831Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 18%
+2023-04-26T11:20:53.833Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 20%
+2023-04-26T11:20:53.833Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 21%
+2023-04-26T11:20:53.837Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 23%
+2023-04-26T11:20:53.838Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 26%
+2023-04-26T11:20:53.843Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 29%
+2023-04-26T11:20:53.843Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 32%
+2023-04-26T11:20:53.849Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 35%
+2023-04-26T11:20:53.849Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 41%
+2023-04-26T11:20:53.855Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 43%
+2023-04-26T11:20:53.856Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 49%
+2023-04-26T11:20:53.861Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 51%
+2023-04-26T11:20:53.861Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 57%
+2023-04-26T11:20:53.867Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 59%
+2023-04-26T11:20:53.867Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 64%
+2023-04-26T11:20:53.872Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 65%
+2023-04-26T11:20:53.875Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 68%
+2023-04-26T11:20:53.876Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 69%
+2023-04-26T11:20:53.876Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 70%
+2023-04-26T11:20:53.882Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 72%
+2023-04-26T11:20:53.882Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 76%
+2023-04-26T11:20:53.933Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 78%
+2023-04-26T11:20:53.933Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 81%
+2023-04-26T11:20:53.935Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 83%
+2023-04-26T11:20:53.936Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 85%
+2023-04-26T11:20:53.937Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 88%
+2023-04-26T11:20:53.937Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 90%
+2023-04-26T11:20:53.938Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 95%
+2023-04-26T11:20:53.939Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 99%
+2023-04-26T11:20:53.939Z [Modules] Streaming discord_utils@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 100%
+2023-04-26T11:20:53.941Z [Modules] Fetching discord_voice@2 from https://discord.com/api/modules/stable/discord_voice/2
+2023-04-26T11:20:53.941Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip
+2023-04-26T11:20:54.149Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 1%
+2023-04-26T11:20:54.154Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 2%
+2023-04-26T11:20:54.161Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 3%
+2023-04-26T11:20:54.167Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 4%
+2023-04-26T11:20:54.168Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 5%
+2023-04-26T11:20:54.174Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 6%
+2023-04-26T11:20:54.181Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 7%
+2023-04-26T11:20:54.186Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 8%
+2023-04-26T11:20:54.196Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 9%
+2023-04-26T11:20:54.205Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 10%
+2023-04-26T11:20:54.212Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 11%
+2023-04-26T11:20:54.218Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 12%
+2023-04-26T11:20:54.223Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 13%
+2023-04-26T11:20:54.224Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 14%
+2023-04-26T11:20:54.231Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 15%
+2023-04-26T11:20:54.236Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 16%
+2023-04-26T11:20:54.242Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 17%
+2023-04-26T11:20:54.248Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 18%
+2023-04-26T11:20:54.249Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 19%
+2023-04-26T11:20:54.255Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 20%
+2023-04-26T11:20:54.260Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 21%
+2023-04-26T11:20:54.265Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 22%
+2023-04-26T11:20:54.272Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 23%
+2023-04-26T11:20:54.278Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 24%
+2023-04-26T11:20:54.287Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 25%
+2023-04-26T11:20:54.288Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 26%
+2023-04-26T11:20:54.294Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 27%
+2023-04-26T11:20:54.299Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 28%
+2023-04-26T11:20:54.305Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 29%
+2023-04-26T11:20:54.313Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 30%
+2023-04-26T11:20:54.314Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 31%
+2023-04-26T11:20:54.320Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 32%
+2023-04-26T11:20:54.325Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 33%
+2023-04-26T11:20:54.331Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 34%
+2023-04-26T11:20:54.336Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 35%
+2023-04-26T11:20:54.337Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 36%
+2023-04-26T11:20:54.343Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 37%
+2023-04-26T11:20:54.349Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 38%
+2023-04-26T11:20:54.354Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 39%
+2023-04-26T11:20:54.361Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 40%
+2023-04-26T11:20:54.362Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 41%
+2023-04-26T11:20:54.368Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 42%
+2023-04-26T11:20:54.374Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 43%
+2023-04-26T11:20:54.380Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 44%
+2023-04-26T11:20:54.387Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 45%
+2023-04-26T11:20:54.388Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 46%
+2023-04-26T11:20:54.394Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 47%
+2023-04-26T11:20:54.399Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 48%
+2023-04-26T11:20:54.404Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 49%
+2023-04-26T11:20:54.411Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 50%
+2023-04-26T11:20:54.413Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 51%
+2023-04-26T11:20:54.417Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 52%
+2023-04-26T11:20:54.421Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 53%
+2023-04-26T11:20:54.428Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 54%
+2023-04-26T11:20:54.435Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 55%
+2023-04-26T11:20:54.439Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 56%
+2023-04-26T11:20:54.445Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 57%
+2023-04-26T11:20:54.451Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 58%
+2023-04-26T11:20:54.457Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 59%
+2023-04-26T11:20:54.464Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 60%
+2023-04-26T11:20:54.469Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 61%
+2023-04-26T11:20:54.475Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 62%
+2023-04-26T11:20:54.475Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 63%
+2023-04-26T11:20:54.482Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 64%
+2023-04-26T11:20:54.488Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 65%
+2023-04-26T11:20:54.495Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 66%
+2023-04-26T11:20:54.501Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 67%
+2023-04-26T11:20:54.502Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 68%
+2023-04-26T11:20:54.508Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 69%
+2023-04-26T11:20:54.513Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 70%
+2023-04-26T11:20:54.519Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 71%
+2023-04-26T11:20:54.524Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 72%
+2023-04-26T11:20:54.531Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 73%
+2023-04-26T11:20:54.532Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 74%
+2023-04-26T11:20:54.537Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 75%
+2023-04-26T11:20:54.543Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 76%
+2023-04-26T11:20:54.550Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 77%
+2023-04-26T11:20:54.556Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 78%
+2023-04-26T11:20:54.562Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 79%
+2023-04-26T11:20:54.563Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 80%
+2023-04-26T11:20:54.570Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 81%
+2023-04-26T11:20:54.576Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 82%
+2023-04-26T11:20:54.577Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 83%
+2023-04-26T11:20:54.586Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 84%
+2023-04-26T11:20:54.591Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 85%
+2023-04-26T11:20:54.597Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 86%
+2023-04-26T11:20:54.659Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 87%
+2023-04-26T11:20:54.664Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 88%
+2023-04-26T11:20:54.669Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 89%
+2023-04-26T11:20:54.676Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 90%
+2023-04-26T11:20:54.682Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 91%
+2023-04-26T11:20:54.687Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 92%
+2023-04-26T11:20:54.693Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 93%
+2023-04-26T11:20:54.700Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 94%
+2023-04-26T11:20:54.701Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 95%
+2023-04-26T11:20:54.708Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 96%
+2023-04-26T11:20:54.714Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 97%
+2023-04-26T11:20:54.719Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 98%
+2023-04-26T11:20:54.725Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 99%
+2023-04-26T11:20:54.728Z [Modules] Streaming discord_voice@2 to /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip: 100%
+2023-04-26T11:20:54.729Z [Modules] Finished module downloads. [success: 2] [failure: 0]
+2023-04-26T11:20:54.729Z [Modules] Installing updates...
+2023-04-26T11:20:54.730Z [Modules] Installing discord_utils@2 from /home/ghertel/.config/discord/0.0.26/modules/pending/discord_utils-2.zip
+2023-04-26T11:20:55.025Z [Modules] Installing discord_voice@2 from /home/ghertel/.config/discord/0.0.26/modules/pending/discord_voice-2.zip
+2023-04-26T11:20:55.539Z [Modules] Finished module installations. [success: 2] [failure: 0]
+2023-04-26T11:20:55.539Z [Modules] Checking for host updates.
+2023-04-26T11:20:55.715Z [Modules] Host is up to date.
+2023-04-26T11:20:55.716Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-26T11:20:55.721Z [Modules] No module updates available.
+2023-04-26T11:21:01.098Z [Modules] Checking for host updates.
+2023-04-26T11:21:01.256Z [Modules] Host is up to date.
+2023-04-26T11:21:01.256Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-26T11:21:01.258Z [Modules] No module updates available.

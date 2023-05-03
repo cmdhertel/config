@@ -1,0 +1,48 @@
+00:00:00.002060 main     VirtualBox XPCOM Server 7.0.8 r156879 linux.amd64 (Apr 18 2023 21:36:31) release log
+00:00:00.002062 main     Log opened 2023-04-24T09:26:20.373022000Z
+00:00:00.002062 main     Build Type: release
+00:00:00.002064 main     OS Product: Linux
+00:00:00.002064 main     OS Release: 6.2.12-arch1-1
+00:00:00.002064 main     OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 20 Apr 2023 16:11:55 +0000
+00:00:00.002079 main     DMI Product Name: HP Spectre x360 Convertible 13-aw0xxx
+00:00:00.002083 main     DMI Product Version: 
+00:00:00.002091 main     Firmware type: UEFI
+00:00:00.002241 main     Secure Boot: Disabled
+00:00:00.002264 main     Host RAM: 15674MB (15.3GB) total, 13233MB (12.9GB) available
+00:00:00.002266 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.002266 main     Process ID: 25406
+00:00:00.002266 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.003462 main     IPC socket path: /tmp/.vbox-ghertel-ipc/ipcd
+00:00:00.111616 nspr-2   VirtualBox: object creation starts
+00:00:00.113988 nspr-2   Home directory: '/home/ghertel/.config/VirtualBox'
+00:00:00.114304 nspr-2   Loading settings file "/home/ghertel/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.122422 nspr-2   USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x00c9)
+00:00:00.122465 nspr-2   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.122545 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.131701 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.133108 nspr-2   HostDnsMonitor: initializing
+00:00:00.133230 nspr-2   NAT: resolv.conf: nameserver 141.57.1.94
+00:00:00.133233 nspr-2   NAT: resolv.conf: nameserver 141.57.1.6
+00:00:00.133237 nspr-2   HostDnsMonitor: updating information
+00:00:00.133243 nspr-2   HostDnsMonitor: old information
+00:00:00.133244 nspr-2     no server entries
+00:00:00.133245 nspr-2     no domain set
+00:00:00.133246 nspr-2     no search string entries
+00:00:00.133247 nspr-2   HostDnsMonitor: new information
+00:00:00.133248 nspr-2     server 1: 141.57.1.94
+00:00:00.133250 nspr-2     server 2: 141.57.1.6
+00:00:00.133251 nspr-2     domain: htwk-leipzig.de
+00:00:00.133252 nspr-2     search string 1: htwk-leipzig.de
+00:00:00.137514 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.138370 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.143168 nspr-2   Loading settings file "/home/ghertel/dev/kali-linux-2023.1-virtualbox-amd64/kali-linux-2023.1-virtualbox-amd64.vbox" with version "1.19-linux"
+00:00:00.145467 nspr-2   VirtualBox: object created
+00:00:00.766910 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:01.053805 nspr-3   Saving settings file "/home/ghertel/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.057933 nspr-3   Finished saving settings file "/home/ghertel/.config/VirtualBox/VirtualBox.xml"
+00:06:34.626607 main     VirtualBox: object deletion starts
+00:06:34.626644 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/ghertel/dev/kali-linux-2023.1-virtualbox-amd64/kali-linux-2023.1-virtualbox-amd64.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:06:34.627027 main     HostDnsMonitor: shutting down ...
+00:06:34.637530 main     HostDnsMonitor: shut down
+00:06:34.642393 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:06:34.642495 main     VirtualBox: object deleted

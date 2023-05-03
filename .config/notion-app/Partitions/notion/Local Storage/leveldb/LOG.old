@@ -1,0 +1,63 @@
+2023/05/03-13:13:41.603 1055 Reusing MANIFEST /home/ghertel/.config/notion-app/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2023/05/03-13:13:41.603 1055 Recovering log #971
+2023/05/03-13:13:41.603 1055 Reusing old log /home/ghertel/.config/notion-app/Partitions/notion/Local Storage/leveldb/000971.log 
+2023/05/03-13:15:15.376 1055 Level-0 table #975: started
+2023/05/03-13:15:15.396 1055 Level-0 table #975: 751808 bytes OK
+2023/05/03-13:15:15.398 1055 Delete type=0 #971
+2023/05/03-13:23:49.002 fec Level-0 table #977: started
+2023/05/03-13:23:49.006 fec Level-0 table #977: 38528 bytes OK
+2023/05/03-13:23:49.009 fec Delete type=0 #974
+2023/05/03-13:33:49.012 fec Level-0 table #979: started
+2023/05/03-13:33:49.017 fec Level-0 table #979: 13077 bytes OK
+2023/05/03-13:33:49.020 fec Delete type=0 #976
+2023/05/03-13:33:49.020 1055 Compacting 4@0 + 1@1 files
+2023/05/03-13:33:49.046 1055 Generated table #980@0: 1425 keys, 933854 bytes
+2023/05/03-13:33:49.046 1055 Compacted 4@0 + 1@1 files => 933854 bytes
+2023/05/03-13:33:49.049 1055 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/05/03-13:33:49.049 1055 Delete type=2 #970
+2023/05/03-13:33:49.049 1055 Delete type=2 #975
+2023/05/03-13:33:49.049 1055 Delete type=2 #972
+2023/05/03-13:33:49.049 1055 Delete type=2 #979
+2023/05/03-13:33:49.049 1055 Delete type=2 #977
+2023/05/03-13:43:49.008 1055 Level-0 table #982: started
+2023/05/03-13:43:49.012 1055 Level-0 table #982: 13039 bytes OK
+2023/05/03-13:43:49.015 1055 Delete type=0 #978
+2023/05/03-13:53:49.021 fec Level-0 table #984: started
+2023/05/03-13:53:49.024 fec Level-0 table #984: 13048 bytes OK
+2023/05/03-13:53:49.027 fec Delete type=0 #981
+2023/05/03-14:03:49.013 fec Level-0 table #986: started
+2023/05/03-14:03:49.017 fec Level-0 table #986: 13076 bytes OK
+2023/05/03-14:03:49.019 fec Delete type=0 #983
+2023/05/03-14:13:49.016 fec Level-0 table #988: started
+2023/05/03-14:13:49.020 fec Level-0 table #988: 13050 bytes OK
+2023/05/03-14:13:49.023 fec Delete type=0 #985
+2023/05/03-14:13:49.023 1055 Compacting 4@0 + 1@1 files
+2023/05/03-14:13:49.039 1055 Generated table #989@0: 1425 keys, 933834 bytes
+2023/05/03-14:13:49.039 1055 Compacted 4@0 + 1@1 files => 933834 bytes
+2023/05/03-14:13:49.042 1055 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/05/03-14:13:49.042 1055 Delete type=2 #988
+2023/05/03-14:13:49.042 1055 Delete type=2 #980
+2023/05/03-14:13:49.042 1055 Delete type=2 #986
+2023/05/03-14:13:49.042 1055 Delete type=2 #982
+2023/05/03-14:13:49.042 1055 Delete type=2 #984
+2023/05/03-14:23:48.998 fec Level-0 table #991: started
+2023/05/03-14:23:49.003 fec Level-0 table #991: 13062 bytes OK
+2023/05/03-14:23:49.005 fec Delete type=0 #987
+2023/05/03-14:33:49.004 1055 Level-0 table #993: started
+2023/05/03-14:33:49.008 1055 Level-0 table #993: 13063 bytes OK
+2023/05/03-14:33:49.011 1055 Delete type=0 #990
+2023/05/03-14:43:48.986 fec Level-0 table #995: started
+2023/05/03-14:43:48.990 fec Level-0 table #995: 13063 bytes OK
+2023/05/03-14:43:48.992 fec Delete type=0 #992
+2023/05/03-14:53:49.055 1055 Level-0 table #997: started
+2023/05/03-14:53:49.059 1055 Level-0 table #997: 13123 bytes OK
+2023/05/03-14:53:49.063 1055 Delete type=0 #994
+2023/05/03-14:53:49.063 fec Compacting 4@0 + 1@1 files
+2023/05/03-14:53:49.087 fec Generated table #998@0: 1425 keys, 933875 bytes
+2023/05/03-14:53:49.087 fec Compacted 4@0 + 1@1 files => 933875 bytes
+2023/05/03-14:53:49.090 fec compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/05/03-14:53:49.090 fec Delete type=2 #993
+2023/05/03-14:53:49.090 fec Delete type=2 #997
+2023/05/03-14:53:49.090 fec Delete type=2 #991
+2023/05/03-14:53:49.091 fec Delete type=2 #995
+2023/05/03-14:53:49.091 fec Delete type=2 #989

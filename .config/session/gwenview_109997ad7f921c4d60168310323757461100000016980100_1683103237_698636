@@ -1,0 +1,13 @@
+[1]
+Page=2
+Url=file:///usr/share/backgrounds/nordic-wallpapers/ign_chineseIG.png
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+1920x1080 screen: Window-Maximized=true
+ClassName=Gwenview::MainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAG7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA

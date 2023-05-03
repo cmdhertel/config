@@ -1,0 +1,5 @@
+2023/05/02-19:17:04.006 5c87 Reusing MANIFEST /home/ghertel/.config/notion-app/Partitions/notion/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/02-19:17:15.259 2cce Level-0 table #5: started
+2023/05/02-19:17:15.263 2cce Level-0 table #5: 7473 bytes OK
+2023/05/02-19:17:15.265 2cce Delete type=0 #3
+2023/05/02-19:17:15.265 2cce Manual compaction at level-0 from (begin) .. (end); will stop at (end)
